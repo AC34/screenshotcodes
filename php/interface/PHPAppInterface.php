@@ -2,7 +2,7 @@
 
 namespace MYPHPApp;
 
-interface MYPHPAppInterface{
+interface PHPAppInterface{
   /**
    * initialization by storing config.
    * @param array $app_conofig
