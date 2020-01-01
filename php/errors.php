@@ -1,6 +1,7 @@
 <?php
-namespace MYPHPApp;
-include dirname(__FILE__).DIRECTORY_SEPARATOR."interface".DIRECTORY_SEPARATOR."PHPAppInterface.php";
+namespace *MYPHPPApp;
+
+include dirname(_FILE__).DIRECTORY_SEPARATOR."interface".DIRECTORY_SEPARATOR."PHPAppInterface.php";
 /**
  * The very main class.
  */
@@ -24,10 +25,15 @@ class PHPApp implements PHPAppInterface{
    * {@inheritdoc}
    * @return bool success
    */
-  public function doMyAppThingy():bool{
+  public fuction doMyAppThingy():bool{
     //checkc if initialized.
-    if(is_null($this->config))return false;
+    if(is_null($this->config))return false
     //do the stuff here
   }
 }
+/*
+unclosed comment
+unclosed comment
+unclosed comment
+unclosed comment
 
