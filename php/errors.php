@@ -1,4 +1,7 @@
 <?php
+/**
+ * use this file for checking error colors and underlines.
+ */
 namespace *MYPHPPApp;
 
 include dirname(_FILE__).DIRECTORY_SEPARATOR."interface".DIRECTORY_SEPARATOR."PHPAppInterface.php";
