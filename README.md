@@ -1,3 +1,5 @@
+![LICENSE](https://img.shields.io/github/license/AC34/screenshotcodes)
+
 # screenshotcodes
 
 codes for taking screenshots.<br> e.g. for vscode theme screenshot.
