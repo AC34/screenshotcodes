@@ -11,6 +11,3 @@ Just clone the repository, and open with your favourite editor.
  - Windows(10+):Windows+Shift+s
  - Mac:shift + command + 5
  - Linux&FreeBSD and variants: You know your tools.
-
-## LICENSE
-see the license file.
