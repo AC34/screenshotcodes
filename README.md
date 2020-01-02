@@ -8,6 +8,6 @@ codes for taking screenshots.<br> e.g. for vscode theme screenshot.
 Just clone the repository, and open with your favourite editor.
 
 ## How can I take screenshot?
- - Windows(10+):Windows+Shift+s
- - Mac:shift + command + 5
- - Linux&FreeBSD and variants: You know your tools.
+ ![Windows](https://img.shields.io/badge/Windows10-Windows%2BShift%2Bs-black)
+ ![Mac](https://img.shields.io/badge/Mac-Shift%20%2B%20command%20%2B%205-black)
+ ![Linus/FreeBSD](https://img.shields.io/badge/Linux%2FFreeBSD%20and%20variants-You%20know%20what%20to%20do-black)
