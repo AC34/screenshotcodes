@@ -9,12 +9,12 @@ onst MyApp = {
     this.isInitDone =true;
   }
   doAppThingy: function(){
-    //make sure init is done.
+  //make sure init is done.
     if(!this.isInitDone){
       this.init();
     
     //do the rest of the thingy here.
-    console.log("doing the app thingy.");
+    console.log("maneuvering the app thingy.");
   }
 };
 //execute
