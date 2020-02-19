@@ -2,15 +2,17 @@
  * MyApp class is the very main part of my app.
  */
 const MyApp = {
-  isInitDone:false,
-  //init 
-  init : function () {
+  isInitDone: false,
+  arr: ["1", "2", "3"],
+  obj: { one: "1", two: "2" },
+  //init
+  init: function() {
     //update status
-    this.isInitDone =true;
+    this.isInitDone = true;
   },
-  doAppThingy: function(){
+  doAppThingy: function() {
     //make sure init is done.
-    if(!this.isInitDone){
+    if (!this.isInitDone) {
       this.init();
     }
     //do the rest of the thingy here.
