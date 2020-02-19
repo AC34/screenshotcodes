@@ -7,6 +7,7 @@ include dirname(__FILE__).DIRECTORY_SEPARATOR."interface".DIRECTORY_SEPARATOR."P
 class PHPApp implements PHPAppInterface{
   private $config;
   private $arr = ["1"=>"one","2"=>"two","3"=>"three"];
+  private $bool = true;
   public function __construct(){
   }
   /**
