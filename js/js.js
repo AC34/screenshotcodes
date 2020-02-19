@@ -5,6 +5,7 @@ const MyApp = {
   isInitDone: false,
   arr: ["1", "2", "3"],
   obj: { one: "1", two: "2" },
+  bool:true,
   //init
   init: function() {
     //update status
