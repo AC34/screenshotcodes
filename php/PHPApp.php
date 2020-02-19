@@ -6,6 +6,7 @@ include dirname(__FILE__).DIRECTORY_SEPARATOR."interface".DIRECTORY_SEPARATOR."P
  */
 class PHPApp implements PHPAppInterface{
   private $config;
+  private $arr = ["1","2","3"];
   public function __construct(){
   }
   /**
@@ -30,4 +31,3 @@ class PHPApp implements PHPAppInterface{
     //do the stuff here
   }
 }
-
