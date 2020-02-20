@@ -1,0 +1,15 @@
+{
+  "editor.background": "#0e0e13",
+  "editor.foreground": "#9798a5",
+  "editorCursor.background": "#ffac30",
+  "editorCursor.foreground": "#706ee0cc",
+  "editor.selectionBackground": "#4744e766",
+  "editor.selectionForeground": "#ffac30",
+  "editor.selectionHighlightBackground": "#4744e755",
+  "editor.selectionHighlightBorder": "#4744e7",
+  "editor.wordHighlightBackground": "#2d2b83",
+  "editor.findMatchBackground": "#4744e7ee",
+  "editor.findMatchHighlightBackground": "#2d2b83",
+  "editor.findRangeHighlightBackground": "#4744e7",
+  "editor.findMatchBorder": "#515083cc"
+}
